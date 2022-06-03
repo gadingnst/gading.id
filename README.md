@@ -1,4 +1,4 @@
-> This reposity only for redirection from sutanlab.id to https://gading.dev/id
+> This reposity only for redirection from https://sutanlab.id to https://gading.dev/id
 
 If you want to see old source-code of this repository, please visit: https://github.com/gadingnst/sutanlab.id-archive
 
