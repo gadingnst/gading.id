@@ -5,6 +5,10 @@
       "destination": "https://gading.dev/id/"
     },
     {
+      "source": "/p/:path*",
+      "destination": "https://gading.dev/:path*"
+    },
+    {
       "source": "/:path*",
       "destination": "https://gading.dev/id/:path*"
     },
